@@ -1,1 +1,1 @@
-# control_systems_engineering_nise
+# Python versions for Norman Nise's Control Systems Engineering, 6th edition.
