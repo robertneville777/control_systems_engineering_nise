@@ -2,7 +2,7 @@
 
 This repo contains a handful of solutions to Norman Nise's _Control Systems Engineering_ 6th edition textbook.
 
-The textbook uses MATLAB, whereas these solutions use Python in Jupyter notebooks.
+The textbook uses MATLAB, whereas these solutions use Python in Jupyter Notebooks.
 
 Below is the current status of solutions:
 
