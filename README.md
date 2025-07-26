@@ -1,22 +1,24 @@
-This repo contains solutions to a handful of exercises in Norman Nise's Control Systems Engineering 6th edition textbook.
+## Control Systems Engineering Python Solutions
 
-The textbook uses MATLAB, but these solutions instead use Python in Jupyter notebooks.
+This repo contains a handful of solutions to Norman Nise's _Control Systems Engineering_ 6th edition textbook.
 
-Currently, the following exercises have been completed:
+The textbook uses MATLAB, whereas these solutions use Python in Jupyter notebooks.
 
-Try-It
+Below is the current status of solutions:
+
+### Completed
+#### Try-It
 * 8.1 - 8.3
 * 9.1
 
-Examples
+#### Examples
 * 8.8
 
-Skill-Assessment Exercises
+#### Skill-Assessment Exercises
 * 8.6
-* 9.1 - 9.2
-* 9.3 Partially
+* 9.1 - 9.4
 
-The goal is to complete the following Skill-Assessment Exercises
-* 9.4
+### TODO
+#### Skill-Assessment Exercises
 * 10.1 - 10.2, 10.6 - 10.11
 * 11.2 - 11.4
