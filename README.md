@@ -21,5 +21,5 @@ Below is the current status of solutions:
 
 ### TODO
 #### Skill-Assessment Exercises
-* 10.8 - 10.11
+* 10.8 - 10.12
 * 11.2 - 11.4
