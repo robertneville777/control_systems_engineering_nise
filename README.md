@@ -17,9 +17,9 @@ Below is the current status of solutions:
 #### Skill-Assessment Exercises
 * 8.6
 * 9.1 - 9.4
-* 10.1 - 10.2, 10.6 - 10.8
+* 10.1 - 10.2, 10.6 - 10.9
 
 ### TODO
 #### Skill-Assessment Exercises
-* 10.9 - 10.12
+* 10.10 - 10.12
 * 11.2 - 11.4
