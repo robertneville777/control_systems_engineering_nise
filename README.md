@@ -18,8 +18,8 @@ Below is the current status of solutions:
 * 8.6
 * 9.1 - 9.4
 * 10.1 - 10.2, 10.6 - 10.11
-* 11.1
+* 11.1 - 11.2
 
 ### TODO
 #### Skill-Assessment Exercises
-* 11.2 - 11.4
+* 11.3 - 11.4
