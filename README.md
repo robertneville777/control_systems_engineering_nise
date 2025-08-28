@@ -10,6 +10,7 @@ Below is the current status of solutions:
 #### Try-It
 * 8.1 - 8.3
 * 9.1
+* 11.2
 
 #### Examples
 * 8.8
