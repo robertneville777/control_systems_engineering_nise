@@ -20,8 +20,13 @@ Below is the current status of solutions:
 * 9.1 - 9.4
 * 10.1 - 10.2, 10.6 - 10.11
 * 11.1 - 11.4
-* 13.1 - 13.9
+* 13.1 - 13.10
 
 ### TODO
 #### Skill-Assessment Exercises
-* 13.10
+* 3.1 - 3.5
+* 4.9 - 4.10
+* 5.5 - 5.8
+* 6.4
+* 7.7
+* 12.1 - 12.7
